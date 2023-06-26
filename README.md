@@ -53,13 +53,8 @@ else:
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh71586&theme=radical">
-<img src="https://activity-graph.herokuapp.com/graph?username=adarsh71586&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true">
-</p>
-
-
 
 ![Profile views](https://profile-counter.glitch.me/adarsh71586/count.svg)
-
 
 ```zsh
 >  check out my repos 👇
