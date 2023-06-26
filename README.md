@@ -62,16 +62,6 @@ else:
 </p>
 
 
-___
-
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31xncutsjftde6tov3a45cja7t3q?si=2eb0165bdaa14cd2)
-
-
-----
 
 ![Profile views](https://profile-counter.glitch.me/adarsh71586/count.svg)
 
