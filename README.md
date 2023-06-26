@@ -11,7 +11,7 @@ name = Adarsh
 about_me = {
     'pronouns': "he" | "his",
     'status': 'Undergrad Student',
-    'college': 'Bennett University'
+    'college': 'Bennett University, Noida'
     'technologies': {
         'front_end' : ['python - tkinter'],
         'back_end': ['mysql',  'python-mysql'],
