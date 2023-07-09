@@ -15,7 +15,8 @@ about_me = {
     'my_tools': ['Visual Studio Code', 'Neo Vim', 'Py Charm'],
     'current_operating_system': 'ubuntu-22.04',
     'contact' : 'adarsh71586@gmail.com',
-    'currently_learning' : 'MERN stack Web Developement'
+    'currently_learning' : 'MERN Stack Web Developement',
+    'major_programming_language_for_dsa' : 'Java'
 };
 
 daily_goals = 'All set'
