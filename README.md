@@ -9,10 +9,10 @@ about_me = {
     'status': 'Undergrad Student',
     'college': 'Bennett University, Noida'
     'technologies': {
-        'front_end' : ['python - tkinter'],
-        'back_end': ['mysql',  'python-mysql'],
+        'front_end' : ['python-tkinter','html-css-js','reactjs'],
+        'back_end': ['mysql',  'python-mysql','mongoDB','nodeJS'],
          },
-    'my_tools': ['Visual Studio Code', 'Neo Vim', 'Py Charm'],
+    'my_tools': ['Visual Studio Code', 'Neo Vim', 'PyCharm'],
     'current_operating_system': 'ubuntu-22.04',
     'contact' : 'adarsh71586@gmail.com',
     'currently_learning' : 'MERN Stack Web Developement',
@@ -34,7 +34,6 @@ else:
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=yellow">
-<img src="https://img.shields.io/badge/C++-800080?style=for-the-badge&logo=cpp&logoColor=white">
 </p>
 
 ---
