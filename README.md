@@ -9,10 +9,10 @@ about_me = {
     'status': 'Undergrad Student',
     'college': 'Bennett University, Noida'
     'technologies': {
-        'front_end' : ['python-tkinter','html-css-js','reactjs'],
-        'back_end': ['mysql',  'python-mysql','mongoDB','nodeJS'],
+        'front_end' : ['python-tkinter'],
+        'back_end': ['mysql',  'python-mysql'],
          },
-    'my_tools': ['Visual Studio Code', 'Neo Vim', 'PyCharm'],
+    'my_tools': ['Visual Studio Code', 'Neo Vim', 'PyCharm', 'Obsidian', 'Notion'],
     'current_operating_system': 'ubuntu-22.04',
     'contact' : 'adarsh71586@gmail.com',
     'currently_learning' : 'C++ from SUPREME 2.0',
