@@ -5,7 +5,7 @@ print("Hi Beautiful People")
 
 name = Adarsh
 about_me = {
-    'pronouns': "he" | "his",
+    'pronouns': "he / his",
     'status': 'Undergrad Student',
     'college': 'Bennett University, Noida'
     'technologies': {
