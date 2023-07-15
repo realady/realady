@@ -57,8 +57,7 @@ else:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh71586&theme=radical">
 <hr>
     
-### Profile Views
-![Profile views](https://profile-counter.glitch.me/adarsh71586/count.svg)
+### Profile Views :  ![Profile views](https://profile-counter.glitch.me/adarsh71586/count.svg)
 <hr>
 
 ```zsh
