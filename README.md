@@ -57,6 +57,6 @@ else:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh71586&theme=radical">
 <hr>
 
-    ```zsh
+```zsh
 >  check out my repos 👇
 ```
