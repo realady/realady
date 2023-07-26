@@ -45,7 +45,7 @@ else:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adarsh71586&theme=nord_dark"><br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adarsh71586&theme=nord_dark" ><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh71586&theme=chartreuse-dark&layout=compact" width="335">
+
 </p>
 
 ---
