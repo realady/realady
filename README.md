@@ -15,7 +15,7 @@ about_me = {
     'my_tools': ['Visual Studio Code', 'Neo Vim', 'PyCharm', 'Obsidian', 'Notion'],
     'current_operating_system': 'ubuntu-22.04',
     'contact' : 'adarsh71586@gmail.com',
-    'currently_learning' : 'C++ from SUPREME 2.0',
+    'currently_learning' : 'C++, Python',
     'dsa_in' : 'C++'
 };
 
