@@ -1,4 +1,7 @@
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Adarsh
+
+![banner-modified](https://github.com/adarsh71586/adarsh71586/assets/96112833/3d8d224e-066b-4109-bd7b-026063f04a2a)
+
 ## Welcome to my Github Profile 
 ```python
 print("Hi Beautiful People")
@@ -38,24 +41,6 @@ else:
 </p>
 
 ---
-
-### ⚙ Github Analytics
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adarsh71586&theme=nord_dark"><br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adarsh71586&theme=nord_dark" ><br>
-<img src="https://github-profile-trophy.vercel.app/?username=adarsh71586&theme=darkhub"><br>
-<img src="https://github-readme-stats.vercel.app/api?username=adarsh71586&theme=blue-green" width="400"><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh71586&theme=chartreuse-dark&layout=compact" width="335">
-</p>
-
----
-
-### ⚙ Commits Streak 
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh71586&theme=radical">
-<hr>
 
 ```zsh
 >  check out my repos 👇
