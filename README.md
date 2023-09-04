@@ -15,10 +15,10 @@ about_me = {
         'front_end' : ['python-tkinter'],
         'back_end': ['mysql',  'python-mysql'],
          },
-    'my_tools': ['Visual Studio Code', 'Neo Vim', 'PyCharm', 'Obsidian', 'Notion'],
-    'current_operating_system': 'ubuntu-22.04',
+    'my_tools': ['Visual Studio Code', 'PyCharm', 'Obsidian', 'Notion'],
+    'current_operating_system': 'windows 11',
     'contact' : 'adarsh71586@gmail.com',
-    'currently_learning' : 'C++, Python',
+    'currently_learning' : 'Web Developement',
     'dsa_in' : 'C++'
 };
 
