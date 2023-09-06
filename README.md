@@ -18,8 +18,7 @@ about_me = {
     'my_tools': ['Visual Studio Code', 'PyCharm', 'Obsidian', 'Notion'],
     'current_operating_system': 'windows 11',
     'contact' : 'adarsh71586@gmail.com',
-    'currently_learning' : 'Web Developement',
-    'dsa_in' : 'C++'
+    'currently_learning' : '100 Days of Code'
 };
 
 daily_goals = 'All set'
