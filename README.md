@@ -24,7 +24,7 @@ about_me = {
 daily_goals = 'All set'
 daily_goals_achieved = bool(input())
 
-if daily_gaols_acheieved == False:
+if not daily_gaols_acheieved:
     tryagain()
 else:
     anime()
