@@ -5,11 +5,11 @@
 
 ## Welcome to my Github Profile 
 ```python
-print("Hi Beautiful People")
+print("Hey People")
 
 name = Adarsh
 about_me = {
-    'pronouns': "he / his",
+    'pronouns': "he / him",
     'status': 'Undergrad Student',
     'college': 'Bennett University, Noida'
     'technologies': {
