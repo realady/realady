@@ -13,13 +13,13 @@ about_me = {
     'status': 'Undergrad Student',
     'college': 'Bennett University, Noida'
     'technologies': {
-        'front_end' : ['python-tkinter'],
-        'back_end': ['mysql',  'python-mysql'],
+        'languages' : ['python', 'java', 'cpp', 'verilog'],
+        'frontend-web-dev-skills' : ['html', 'css', 'js', 'tailwind-css']
          },
-    'my_tools': ['Visual Studio Code', 'PyCharm', 'Obsidian', 'Notion'],
-    'current_operating_system': 'windows 11',
+    'my_tools': ['Visual Studio Code', 'PyCharm', 'Obsidian', 'Notion', 'InteliJIdea', 'LazyVim'],
+    'current_operating_system': 'windows 11, ubuntu22.04LTS',
     'contact' : 'adarsh71586@gmail.com',
-    'currently_learning' : 'Full Stack Web Developement'
+    'currently_learning' : 'Full Stack Web Developement, DSA'
 };
 
 daily_goals = 'All set'
