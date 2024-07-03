@@ -22,7 +22,7 @@ about_me = {
     'my_tools': ['Visual Studio Code', 'PyCharm', 'Obsidian', 'Notion', 'InteliJIdea', 'LazyVim'],
     'current_operating_system': ['windows 11', 'KaliLinux'],
     'contact' : 'adarsh71586@gmail.com',
-    'currently_learning' : ['Flutter Development', 'DSA']
+    'currently_learning' : ['Full Stack Development', 'DSA']
 };
 
 daily_goals = 'All set'
