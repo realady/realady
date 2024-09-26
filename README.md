@@ -2,7 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Adarsh;Welcome+to+my+profile!" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🎓 BU CSE'27 | 💻 Full Stack Developer | 🚀 Innovator | 🌟 Problem Solver</h3>
+<p align="center">
+  <img src="https://github.com/realady/realady/assets/96112833/3d8d224e-066b-4109-bd7b-026063f04a2a" alt="banner" width="100%"/>
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&duration=3000&pause=300&color=0969DA&vCenter=true&width=435&lines=%F0%9F%8E%93+BU+CSE'27;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%9A%80+Innovator;%F0%9F%8C%9F+Problem+Solver" alt="Subtitle Typing SVG" />
+</div>
 
 <p align="center">
   <a href="mailto:adarsh71586@gmail.com"><img src="https://img.shields.io/badge/Email-adarsh71586%40gmail.com-blue?style=flat-square&logo=gmail"></a>
@@ -10,9 +16,16 @@
   <a href="https://adydoesblogging.super.site"><img src="https://img.shields.io/badge/Blog-Read%20My%20Articles-blue?style=flat-square&logo=wordpress"></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=realady&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
+
 ## 👨‍💻 About Me
 
 I'm an 18-year-old Computer Science & Engineering student at Bennett University with a passion for technology, innovation, and problem-solving. I love building web solutions and exploring new frameworks to push my development skills further.
+
+<details>
+<summary>🔍 More about me</summary>
 
 ```python
 class Adarsh:
@@ -28,21 +41,32 @@ class Adarsh:
 me = Adarsh()
 me.say_hi()
 ```
+</details>
 
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,express,mongodb,nextjs,aws&theme=light" />
 </p>
 
 ## 🌱 Currently Learning
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+      <br>DSA
+    </td>
+  </tr>
+</table>
 
 - 🚀 **Next.js and Advanced Web Concepts**: Diving deep into server-side rendering, static site generation, and advanced React patterns.
 - 💻 **Data Structures and Algorithms (DSA)**: Strengthening my problem-solving skills and optimizing code efficiency.
@@ -66,19 +90,17 @@ me.say_hi()
 
 ## 📚 Latest Blog Posts
 
-Check out my latest articles on my blog: [Ady Does Blogging](https://adydoesblogging.super.site)
+<a href="https://adydoesblogging.super.site" target="_blank">
+  <img src="https://img.shields.io/badge/Check%20out%20my%20latest%20articles%20on-Ady%20Does%20Blogging-blue?style=for-the-badge&logo=wordpress" alt="Blog" />
+</a>
 
 ## 🤝 Let's Connect!
-
-I'm always open to interesting conversations and collaboration opportunities. Whether you have a question, want to discuss a project idea, or just want to say hi, feel free to reach out!
 
 <p align="center">
   <a href="mailto:adarsh71586@gmail.com"><img src="https://img.shields.io/badge/Email-Drop%20a%20message-blue?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=realady&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
-
-<h3 align="center">Thanks for visiting! Don't forget to check out my repositories! ⭐️</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%8C%9F;Check+out+my+repositories+%F0%9F%9A%80" alt="Thanks" />
+</h3>
