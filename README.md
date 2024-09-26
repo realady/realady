@@ -8,13 +8,10 @@
 </p>
 
 <!-- Rainbow Text Heading -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=0DF3A9FF&background=FFFFFF00&center=true&vCenter=true&width=800&lines=🌈+Colorful+Headings+for+Your+Journey+🌈" alt="Rainbow Heading SVG" />
-</h1>
 
-<p align="center">
+<h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=28&duration=4000&pause=750&color=27AE60&center=true&vCenter=true&width=600&height=70&lines=💻+Full+Stack+Developer;🚀+Innovator;🎓+CSE'27;🔍+Always+Learning" alt="Subtitle Typing SVG" />
-</p>
+</h2>
 
 <p align="center">
   <a href="mailto:adarsh71586@gmail.com"><img src="https://img.shields.io/badge/Email-adarsh71586%40gmail.com-blue?style=for-the-badge&logo=gmail"></a>
