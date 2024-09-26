@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+Ady's+World!;Full+Stack+Developer;Innovator;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+Adarsh's+World!;Full+Stack+Developer;Innovator;Problem+Solver" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -43,13 +43,13 @@ me.say_hi()
 ```
 </details>
 
-<h2 align="center">🛠️ Ady's Tech Stack & Tools</h2>
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,express,mongodb,nextjs,aws,git,vscode&perline=5" />
 </p>
 
-<h2 align="center">🌱 What Ady's Currently Learning</h2>
+<h2 align="center">🌱 Currently Learning</h2>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/></a>
@@ -67,7 +67,7 @@ me.say_hi()
 
 </details>
 
-<h2 align="center">🏆 Ady's Achievements</h2>
+<h2 align="center">🏆 Achievements</h2>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/300%2B-DSA%20Problems%20Solved-brightgreen?style=for-the-badge" alt="DSA Problems Solved"/></a>
@@ -75,17 +75,17 @@ me.say_hi()
   <a href="#"><img src="https://img.shields.io/badge/Ex--Intern-CEHRO%20India-orange?style=for-the-badge" alt="CEHRO India"/></a>
 </p>
 
-<h2 align="center">📊 Ady's GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=realady&show_icons=true&theme=radical" alt="Ady's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=realady&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=realady&theme=radical" alt="Ady's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=realady&theme=radical" alt="GitHub Streak" />
 </p>
 
-<h2 align="center">📚 Ady's Latest Blog Posts</h2>
+<h2 align="center">📚 Latest Blog Posts</h2>
 
 <p align="center">
   <a href="https://adydoesblogging.super.site" target="_blank">
@@ -93,11 +93,7 @@ me.say_hi()
   </a>
 </p>
 
-<h2 align="center">📅 Ady's Contribution Graph</h2>
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/realady/realady/output/github-contribution-grid-snake-dark.svg)
-
-<h2 align="center">🤝 Let's Connect with Ady!</h2>
+<h2 align="center">🤝 Let's Connect!</h2>
 
 <p align="center">
   <a href="mailto:adarsh71586@gmail.com"><img src="https://img.shields.io/badge/Email-Drop%20a%20message-blue?style=for-the-badge&logo=gmail"></a>
@@ -107,5 +103,3 @@ me.say_hi()
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%8C%9F;Check+out+my+repositories+%F0%9F%9A%80" alt="Thanks" />
 </h3>
-
-<img src="https://raw.githubusercontent.com/realady/realady/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Profile" width="100%"/>
