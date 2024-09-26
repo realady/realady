@@ -1,49 +1,90 @@
-<h1 align="center">Hi 👋, I'm Adarsh</h1>
-<h3 align="center">🎓 BU CSE'27 | 💻 Computer Science Undergrad | 🌐 Learning Full Stack Web Development | 🐍 Python | 📊 MySQL | 🚀</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Adarsh's GitHub Profile</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #0d1117;
+      color: #c9d1d9;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+    }
+    h1, h3 {
+      color: #58a6ff;
+    }
+    pre {
+      background-color: #161b22;
+      padding: 20px;
+      border-radius: 8px;
+      text-align: left;
+      color: #c9d1d9;
+      white-space: pre-wrap;
+    }
+    .stats {
+      margin: 20px 0;
+    }
+    a {
+      color: #58a6ff;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
 
-<p align="center">
-  <img src="https://github.com/not-adarsh/not-adarsh/assets/96112833/3d8d224e-066b-4109-bd7b-026063f04a2a" alt="banner" />
-</p>
+  <h1>Hi 👋, I'm Adarsh</h1>
+  <h3>🎓 BU CSE'27 | 💻 Computer Science Undergrad | 🌐 Learning Full Stack Web Development | 🐍 Python | 📊 MySQL | 🚀</h3>
 
-## Welcome to my GitHub Profile 
-```python
-print("Hey People")
+  <p>
+    <img src="https://github.com/realady/realady/assets/96112833/3d8d224e-066b-4109-bd7b-026063f04a2a" alt="banner" width="500"/>
+  </p>
 
-name = Adarsh
-about_me = {
-    'pronouns': "he / him",
-    'status': 'Undergrad Student',
-    'college': 'Bennett University, Noida'
-    'technologies': {
-        'languages' : ['python', 'java', 'cpp', 'verilog'],
-        'frontend-technologies' : ['html', 'css', 'js', 'tailwind-css'],
-        'backend-technologies' : ['mysql', 'zod', 'mongoDB', 'express', 'NodeJS']
-    },
-    'my_tools': ['Visual Studio Code', 'PyCharm', 'Obsidian', 'Notion', 'InteliJIdea', 'LazyVim'],
-    'current_operating_system': ['windows 11', 'KaliLinux'],
-    'contact' : 'adarsh71586@gmail.com',
-    'currently_learning' : ['Full Stack Development', 'DSA']
-};
+  <h2>Welcome to my GitHub Profile</h2>
 
-daily_goals = 'All set'
-daily_goals_achieved = bool(input())
+  <pre>
+  print("Hey People 👋")
 
-if not daily_goals_achieved:
-    tryagain()
-else:
-    anime()
+  name = "Adarsh"
+  about_me = {
+      'pronouns': "he/him",
+      'status': "Undergrad Student",
+      'college': "Bennett University, Noida",
+      'technologies': {
+          'languages': ['Python', 'Java', 'C++', 'Verilog'],
+          'frontend': ['HTML', 'CSS', 'JavaScript', 'Tailwind CSS'],
+          'backend': ['MySQL', 'Zod', 'MongoDB', 'Express', 'NodeJS']
+      },
+      'tools': ['Visual Studio Code', 'PyCharm', 'Notion', 'IntelliJ IDEA'],
+      'operating_systems': ['Windows 11', 'Kali Linux'],
+      'learning': ['Data Structures & Algorithms (DSA)', 'Full Stack Development'],
+      'contact': 'adarsh71586@gmail.com'
+  }
 
-```
-🌱 I’m currently learning Flutter Development
+  print(f"Currently Learning: {about_me['learning']}")
+  </pre>
 
-📫 How to reach me adarsh71586@gmail.com
+  <h2>🌱 I’m currently learning:</h2>
+  <ul>
+    <li>Data Structures and Algorithms (DSA)</li>
+    <li>Full Stack Web Development</li>
+    <li>Flutter Development</li>
+  </ul>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=not-adarsh&show_icons=true&theme=radical" alt="Adarsh's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=not-adarsh&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=not-adarsh&theme=radical" alt="GitHub Streak" />
+  <h2>📫 How to reach me:</h2>
+  <p>Email: <a href="mailto:adarsh71586@gmail.com">adarsh71586@gmail.com</a></p>
 
+  <div class="stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=realady&show_icons=true&theme=radical" alt="Adarsh's GitHub stats" width="500"/>
+  </div>
+  <div class="stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realady&layout=compact&theme=radical" alt="Top Languages" width="500"/>
+  </div>
+  <div class="stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=realady&theme=radical" alt="GitHub Streak" width="500"/>
+  </div>
+
+</body>
+</html>
