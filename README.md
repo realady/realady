@@ -1,7 +1,8 @@
-
+<strong>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=800&lines=Welcome!;Full+Stack+Developer;Innovator;Problem+Solver" alt="Typing SVG" />
 </h1>
+</strong>
 
 <p align="center">
   <img src="https://github.com/realady/realady/assets/96112833/3d8d224e-066b-4109-bd7b-026063f04a2a" alt="banner" width="100%"/>
